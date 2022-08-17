@@ -1,6 +1,5 @@
 #Librerias usadas
 import numpy as np
-import sympy as sp
 from matplotlib import pyplot as plt
 
 def esPrimo(n:int):
